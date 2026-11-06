@@ -1,0 +1,5 @@
+merge_protections:
+  - name: antjey-probe-rule
+    description: antjey probe rule - captured via recon walk
+    if: []
+    success_conditions: []
